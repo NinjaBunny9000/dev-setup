@@ -1,5 +1,9 @@
 # dev-setup
 
+## DEVSTATION
+
+[Download the VM](https://mega.nz/file/dywGlZBR#tE7D5dbuYR6Ro7GC-fzr-ZakznCRWXbzjePa6fwqOYo)
+
 ## General Stuffs
 
 Some general settings I followed when installing apps:
