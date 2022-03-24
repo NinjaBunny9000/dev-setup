@@ -1,0 +1,18 @@
+{
+    "workbench.colorTheme": "Dracula",
+    "editor.fontFamily": "JetBrainsMonoNerdFontComplete-Light, 'Courier New', monospace",
+    "editor.fontSize": 14,
+    "editor.fontLigatures": true,
+    "editor.minimap.enabled": false,
+    "editor.cursorStyle": "block",
+    "editor.inlineSuggest.enabled": true,
+    "editor.wordWrapColumn": 120,
+    "editor.rulers": [
+        80,
+        120
+    ],
+    "workbench.colorCustomizations": {
+        "editorRuler.foreground": "#212124"
+    },
+    "editor.autoClosingBrackets": "always"
+}
